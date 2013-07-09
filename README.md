@@ -88,7 +88,8 @@ Create an HTML file formatted like the example below, insert your variables and 
 
 Example:
 
-~~~ .html
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
 <html>
    <form method="POST" action="https://api.codereadr.com/api/">
       <input type="text" name="api_key" value="YOUR_API_KEY"/>
@@ -97,7 +98,8 @@ Example:
       <input type="submit"/>
    </form>
 </html>
-~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 * XML File
 
