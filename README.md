@@ -90,7 +90,7 @@ Example:
 
 test
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
+``` html
 <html>
    <form method="POST" action="https://api.codereadr.com/api/">
       <input type="text" name="api_key" value="YOUR_API_KEY"/>
@@ -99,7 +99,7 @@ test
       <input type="submit"/>
    </form>
 </html>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 test
 
