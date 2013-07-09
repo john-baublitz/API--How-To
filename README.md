@@ -88,8 +88,6 @@ Create an HTML file formatted like the example below, insert your variables and 
 
 Example:
 
-test
-
 ~~~
 <html>
    <form method="POST" action="https://api.codereadr.com/api/">
@@ -100,8 +98,6 @@ test
    </form>
 </html>
 ~~~
-
-test
 
 * XML File
 
