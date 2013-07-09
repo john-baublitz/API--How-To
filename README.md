@@ -88,6 +88,7 @@ Create an HTML file formatted like the example below, insert your variables and 
 
 Example:
 
+test
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .html
 <html>
