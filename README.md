@@ -90,12 +90,12 @@ Example:
 
 ~~~ .html
 <html>
-<form method="POST" action="https://api.codereadr.com/api/">
-<input type="text" name="api_key" value="YOUR_API_KEY"/>
-<input type="text" name="section" value="SECTION_VARIABLE"/>
-<input type="text" name="action" value="ACTION_VARIABLE"/>
-<input type="submit"/>
-</form>
+   <form method="POST" action="https://api.codereadr.com/api/">
+      <input type="text" name="api_key" value="YOUR_API_KEY"/>
+      <input type="text" name="section" value="SECTION_VARIABLE"/>
+      <input type="text" name="action" value="ACTION_VARIABLE"/>
+      <input type="submit"/>
+   </form>
 </html>
 ~~~
 
